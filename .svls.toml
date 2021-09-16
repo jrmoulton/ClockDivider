@@ -1,0 +1,7 @@
+
+[verilog]
+include_paths = ["ClockDivider.srcs/"]
+defines = ["DEBUG", "VAR=1"]
+
+[option]
+linter = true
