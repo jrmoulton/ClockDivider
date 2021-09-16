@@ -1,0 +1,4 @@
+Running: xsim.dir/ClockDivider_behav/xsimk -simmode gui -wdb ClockDivider_behav.wdb -simrunnum 0 -socket 56905
+Design successfully loaded
+Design Loading Memory Usage: 34968 KB (Peak: 35088 KB)
+Design Loading CPU Usage: 10 ms
